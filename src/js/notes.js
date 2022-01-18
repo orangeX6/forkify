@@ -67,5 +67,20 @@
  -> ADD files to staging area
  * git add -A
  *
+-> Add commit     
+ * git commit -m "Initial commit"
  *
+ -> check log
+ * git log
+ -> Reset to a particular commit
+ >> git reset --hard <commit-hash>
+ * git reset --hard a53bb5b7e9df4477bdce5d6ab085e4b2fbed3051
+ -> check current branch
+ * git branch
+
+ -> create new branch
+ * git branch <branch-name>
+
+ -> switch to a branch
+ * git checkout -b <branch-name>
  */
