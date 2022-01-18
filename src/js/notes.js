@@ -91,4 +91,11 @@
   >> https://www.bing.com/search?q=github+git+cheat+sheet&cvid=e8fe724304de4b9aa10cd7cbe093c582&aqs=edge.1.69i57j0l7j69i60.3774j0j1&pglt=931&FORM=ANNTA1&PC=ASTS
 
   *    https://training.github.com/downloads/github-git-cheat-sheet.pdf
+
+  -> Push branch to github
+  *  git push origin master 
+
+  -> Create readme file
+  * touch README.md
+  >> md stands for mark down, just a typing format that we can use to write down documents
  */
