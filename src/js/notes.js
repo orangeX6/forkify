@@ -83,4 +83,7 @@
 
  -> switch to a branch
  * git checkout -b <branch-name>
+
+  -> Merge changes into current branch
+ * git merge new-feature
  */
