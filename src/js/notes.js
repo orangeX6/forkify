@@ -86,4 +86,9 @@
 
   -> Merge changes into current branch
  * git merge new-feature
+
+  -> GIT CHEAT SHEET 
+  >> https://www.bing.com/search?q=github+git+cheat+sheet&cvid=e8fe724304de4b9aa10cd7cbe093c582&aqs=edge.1.69i57j0l7j69i60.3774j0j1&pglt=931&FORM=ANNTA1&PC=ASTS
+
+  *    https://training.github.com/downloads/github-git-cheat-sheet.pdf
  */
